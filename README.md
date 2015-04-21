@@ -9,7 +9,7 @@ The code includes several Bootstrap themes from [bootswatch.com](http://bootswat
 ![](misc/theme-flow.png)
 
 Installed themes include:
-
+* [Superherp] (http://www.google.com)
 * [amelia](http://bootswatch.com/amelia)
 * [default](http://bootswatch.com/default)
 * [flatly](http://bootswatch.com/flatly)
